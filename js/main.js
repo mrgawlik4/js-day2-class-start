@@ -10,7 +10,7 @@ losses = [55,63,68,70,91,62,66,68,77,81,52,68,74,76,84];
 
 console.log(teams);
 console.log(wins);
-// console.log(wins[x]);
+console.log(wins[x]);
 
 //logic to determin the team with the most wins.
 
