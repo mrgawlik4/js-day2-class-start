@@ -12,7 +12,7 @@ console.log(teams);
 console.log(wins);
 console.log(wins[x]);
 
-//logic to determin the team with the most wins.
+//logic to determine the team with the most wins.
 
 var tempHighWins = 0;
 var tempLeader = 0;
